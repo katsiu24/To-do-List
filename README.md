@@ -1,2 +1,2 @@
-# To-do-List
+# To-do List
 python code that uses lists
